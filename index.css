@@ -3,7 +3,7 @@
     font-family: cursive;
     margin: 0%;
     padding: 0%;
-    
+
 }
 .name {
     background-color: rgb(0, 0, 0);
@@ -13,11 +13,11 @@
 }
 h1 {
     color: red;
-
+    font-family: cursive;
 }
 .about {
     padding: 50px;
-    
+    padding-top: 0px;
 }
 h5 { color: red;}
 .p {
