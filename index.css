@@ -1,9 +1,9 @@
 * {
-    background-color: #323643;
+    background-color: hsl(210, 4%, 11%);
     font-family: cursive;
-
 }
 .name {
     padding: 100px;
-    
+    color: white;
+
 }
