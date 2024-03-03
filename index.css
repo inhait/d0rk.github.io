@@ -2,8 +2,6 @@
     background-color: hsl(210, 4%, 11%);
     font-family: cursive;
 }
-.name {
-    padding: 100px;
+.name h1 {
     color: white;
-
 }
