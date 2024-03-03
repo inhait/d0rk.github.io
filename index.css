@@ -1,7 +1,6 @@
 * {
-    background-color: hsl(210, 4%, 11%);
-    font-family: cursive;
+    background-color: black;
 }
-.name h1 {
-    color: white;
+.name {
+    color: red;
 }
